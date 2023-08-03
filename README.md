@@ -1,5 +1,5 @@
 # Notes Introduction
-I am Ren (PPE, 2023). These are notes and exercises that I have written and completed during the course of my undergraduate study. It is my hope that these will be of use to future cohorts of Oxford undergraduates.
+I am Ren (PPE, 2023). These are notes and exercises that I have written and completed during the course of my undergraduate study. It is my hope that these will be of use to future cohorts of Oxford undergraduates. **To download these notes, click on the green Code button, then click Download ZIP.**
 
 I graduated with First Class Honours, and achieved the following marks at the Second Public Examination. (Overall rank remains undisclosed due to the marking and assessment boycott.)
 
