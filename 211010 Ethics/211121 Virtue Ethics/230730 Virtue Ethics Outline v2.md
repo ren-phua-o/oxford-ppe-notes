@@ -1,0 +1,126 @@
+# Virtue Ethics Outline
+
+## Action-Guidance
+- Virtue ethics apparently fails to guide action because the fundamental claims of virtue ethics are about the virtues that persons should have, which describe the sorts of persons we should be.
+	- So virtue ethics will issue such judgements as "one should be kind" and "one should be just". But it seems quite unnatural for a moral theory concerned primarily with the sorts of persons we should be to make such claims as "one should redirect the out-of-control trolley such that it kills one person rather than five". So virtue ethics appears to remain oddly silent on how an agent should act.
+- Virtue ethics treats virtue as fundamental, but this does not imply that virtue ethics will remain silent on right action. Virtue ethics can derive right action from virtue.
+	- Explain what it means to treat virtue as fundamental. Virtue ethics treats virtue as fundamental in the sense that it explains other moral concepts (like value and duty) in terms of virtue, and does not explain virtue in terms of other moral concepts. Contrast with consequentialism.
+	- One influential attempt to derive right action from virtue is Hursthouse's. According to Hursthouse, right action is action characteristic of a similarly situated completely virtuous person.
+	- Illustrate with the Trolley Problem.
+	- Hursthouse's solution could be motivated by the thought that virtue ethics would require us to be completely virtuous persons, and our actions flow from the sorts of persons we are, so virtue ethics would require us to act as the completely virtuous person (characteristically) would.
+	- Illustrate actions flowing from the sorts of persons we are with Diligence.
+- An initial worry about Hursthouse's solution is that this definition of right action is circular and uninformative.
+	- The opponent of virtue ethics, and the virtue ethicist, would agree that the completely virtuous person is the person who characteristically acts rightly, so it seems circular to define right action by reference to the completely virtuous person.
+	- The consequentialist would not dispute that right action is action characteristic of the completely virtuous person. But, by consequentialist lights, this is simply because to be completely virtuous is to have such a character that actions that bring about the best consequences are characteristic. Hursthouse's definition of right action is unilluminative because without some conception of the best consequences, it is no more clear what actions are right.
+	- The deontologist has a similar response.
+- This initial worry that Hursthouse's definition of right action is circular misunderstands the structure of virtue ethics.
+	- The virtue ethicist would indeed agree that the completely virtuous person is the person who characteristically acts rightly. But, by virtue ethical lights, this is not definitionally so. Instead, by virtue ethical lights, the completely virtuous person is the completely kind, just, etc. person.
+	- So by virtue ethical lights, the concept of a completely virtuous agent is well-defined independently of a prior conception of right action.
+	- Then, Hursthouse's solution does not circularly define right action. Rather, it defines right action with reference to the completely virtuous agent, and the completely virtuous agent with reference to some conception of (complete) virtue.
+- Another worry about Hursthouse's solution is that virtue ethics then fails to guide action for the less than virtuous, who most require action guidance.
+	- Characterise the less than virtuous agents.
+	- Explain why a less than virtuous agent would struggle to apply Hursthouse's definition.
+- Less than virtuous agents can find action guidance from v-rules, which track virtue ethical right action (by Hursthouse's lights) and are more tractable for such agents.
+	- Illustrate the v-rules.
+	- Explain why action guidance by v-rules is more tractable for the less than virtuous. The less than virtuous agent would not have to reliably identify a virtuous agent or to reliably imagine a hypothetical one. There are many v-rules.
+	- Explain that action in accordance with the v-rules is right action because the completely virtuous agent characteristically acts in accordance with the v-rules.
+- The opponent of virtue ethics will not be completely reassured. It seems a less than virtuous agent would still struggle to reliably apply the v-rules.
+	- We worry that the less than virtuous agent will struggle to directly apply Hursthouse's definition of right action because such an agent has an inadequate understanding of virtue, but an agent with an inadequate understanding of virtue will also struggle to reliably apply the v-rules.
+	- An adequate understanding of virtue is necessary to reliably apply the v-rules because applying the v-rules requires making such judgements as "it would be unkind to do that" and "it would be unfair to do that" that a less than virtuous person could not reliably make.
+	- Illustrate with Unkind Comment and Right to Oppress.
+	- Additionally, applying the v-rules requires a "virtuous imagination". A person with an inadequate imagination fails to imagine the right action, and does not consider this as a candidate action.
+- The virtue ethics will concede that it offers limited action guidance. But competing theories fare no better.
+	- Compare against qualitative utilitarianism, which requires the agent to distinguish between higher and lower pleasures, and a plausible deontology which requires the agent to distinguish between murder and killing.
+- Even if every theory offers limited action guidance, it seems virtue ethics is still less able to guide action than competing theories because the virtues (hence the v-rules) conflict.
+	- There are cases where, for example, one can be either kind and unjust or just and unkind, but not both kind and just. The plurality of the v-rules, and that some are positive while others are negative, imply that no single action is prescribed by the v-rules in such cases.
+	- But these are exactly the cases in which we most require moral guidance. Part of what we hope to get out of a moral theory is a solution to such dilemmas.
+	- Compare against consequentialism and deontology. These yield unique prescriptions.
+- Recall that the v-rules are offered as a heuristic for the less than virtuous, and that by virtue ethical (Hursthouse's) lights, right action is action characteristic of a completely virtuous agent. Presumably this is unique (and if it is not then the disjunction of the characteristic actions is obligatory).
+	- Compare against consequentialism. This too will offer heuristics, and that the heuristics occasionally "deadlock" is unproblematic.
+- Johnson objects to Hursthouse's definition of right action.
+	- We think it is right for the moral novice to strive for moral improvement and practice self control, but this is entirely uncharacteristic of a completely virtuous person.
+	- For example, an unkind person would (morally) do well to pay close attention to instances of being unkind, reflect on them to make the morally relevant considerations and their wrongness more vivid, and seek to remedy the psychological grounds of his being unkind.
+	- Similarly, an intemperate person would (morally) do well to avoid situations where he may be tempted by his appetites or put in place structures of support to make it easier to resist temptation.
+	- Explain why such actions are entirely uncharacteristic of the completely virtuous person.
+	- More generally, it seems there is a class of right actions that are (morally) right for an agent to perform in virtue of that agent's being less than completely virtuous.
+- A first, unsuccessful response to Johnson's objection argues that the obligation to morally improve is satisfied by acting as the completely virtuous person characteristically acts.
+	- We cultivate the virtues, at least in part, by acting virtuously, i.e. doing kind, just, etc. things that are characteristic of the completely virtuous agent.
+	- For example, the unkind person above morally improves simply by doing kind acts, even if he does not reflect.
+- This response is unsuccessful because the obligation to morally improve is only partially satisfied by acting as the completely virtuous person characteristically acts.
+	- Illustrate with reference to the unkind person above.
+	- There remains a class of right actions that are not so on Hursthouse's account.
+- A second, unsuccessful response to Johnson's objection amends Hursthouse's definition of right action to read as follows. Right action is action that would be characteristically endorsed by a completely virtuous person.
+	- Presumably (and intuitively) a completely virtuous person would endorse both ordinarily right actions (those not to do with moral improvement), and right actions to do with moral improvement.
+- This response is unsuccessful because it is arbitrary.
+	- It is not clear what reason there is, by virtue ethical lights, to think right action is so. There seems to be no reason, by virtue ethical lights, to think that a virtuous person is a (perfectly) competent moral advisor.
+	- In contrast, there is plenty of reason to think that a (completely) virtuous person is a (perfectly) competent moral actor (because our conceptions of such virtues as kindness and justice in some way imply this).
+- Hursthouse could respond by noting that actions characteristic of the completely virtuous person are required by virtue ethics in only a derivative way. What virtue ethics requires, first and foremost, is that we be virtuous persons.
+	- Hursthouse retreats from a definition to something like a lemma, it does not exhaust all that virtue ethics requires.
+	- The definition of right action as action characteristic of the completely virtuous agent is, in some sense, reluctantly given to guide action.
+	- Then, the virtue ethical account of the rightness of moral improvement is obvious.
+
+### Developmental Model
+- Hursthouse rejects that an ethical theory should be so thoroughly action-guiding in the sense that it yields determinate specific judgements of right action in all circumstances, i.e. it "tells us what to do". This is a technical manual model of ethical theory under which understanding and correctly applying a true ethical theory is sufficient for right action.
+	- First, the technical manual model of ethical theory implies the possible existence of ethical prodigies.
+	- Second, the technical manual model of ethical theory implies the possible existence of loathsome advisors.
+	- We think that children and villains could not have complete knowledge of right and wrong, but it is possible that they have an excellent understanding of a true ethical theory, so the latter is not sufficient for the former, a true ethical theory does not tell us what to do.
+	- So it is not only unproblematic, but a positive good that virtue ethics does not tell us what to do.
+- Annas rejects the technical manual model of ethical theory on the ground that, if a true ethical theory in this model existed, then wrongdoing is merely a "cold" technical failure.
+	- If a true ethical theory in this model existed, then when we act wrongly, it is because we fail to believe a true moral theory, fail to understand it, and/or fail to apply it. We do not simply act wrongly.
+	- In other words, if the purpose of an ethical theory is to "tell us what to do", then when we act wrongly, the failure is not entirely ours, some true ethical theory has also failed in its purpose, because it was not believed, understood, and/or applied.
+	- Additionally, if the purpose of an ethical theory is to "tell us what to do", then our wrongdoing fails to attach to us in a way that goes beyond our being responsible for our wrongdoing. And we intuitively think that our wrongdoing attaches to us in this way.
+	- We think an adult should not simply do what his mother tells him to do. If he does so, he is immature, and his is a case of arrested development, because he "outsources" his moral decision-making to his mother. Similarly, if we are guided by a theory of right action that yields determinate and specific judgements, we "outsource" our moral decision making to this moral theory. While we would still be responsible for our decisions and actions, they would not belong to us in a more meaningful sense. If our moral decisions and actions do not belong to us in this more meaningful sense, they do not have the implications for our characters that we intuitively think they have. For example, if the mom-deferential adult tortures kittens, we could say that his action is cruel, and that he is responsible for a cruel action, and that he is reprehensibly deferential to his mother's authority, but we could not say that he is cruel, since he is simply doing what his mother instructs, and as such that is not cruel. Similarly, if the person so thoroughly guided by some moral theory tortures kittens because this is what that theory requires, we could not say that he is cruel, since he is simply doing what his ethical theory demands, and as such that is not cruel, though it may be unwise or reprehensible in other ways.
+- One objection to Annas's rejection of the technical model of ethical theory is that this rejection is not consistent with what motivates us to construct ethical theories.
+	- We are motivated to construct ethical theories by the inadequacies of our pre-theoretical, unreflective ethical views. These views are (at least partially) the product of prejudice and convention, and they sometimes "deadlock". We are interested in acting ethically rather than prejudicially or conventionally, so guiding our action by such views is inadequate.
+	- A technical manual ethical theory will explain rightness and wrongness in moral (rather than prejudicial or conventional) terms. If it also tells us what to do, then it serves as a substitute for our pre-theoretical beliefs. So we "get what we want" out of moral theory, which is a better basis for action.
+	- If, as Annas argues, ethical theory should not serve as a basis for action, then we do not find a better basis of action by theorising. So, informally, what is the point of theorising?
+- On Annas's developmental model of ethical theory, the point of ethical theory is not to substitute our pre-theoretical ethical views as a basis of action, but to clarify how we ought to refine these views. The hard work of refining these views is on us, and we are not relieved of this burden simply by discovering some true ethical theory.
+	- On this account, learning to be moral is like acquiring a practical skill. Moral expertise is virtue, and the moral expert is the virtuous person.
+	- A moral novice will identify and imitate role models, and by engaging with the moral world, develop a piecemeal and derivative understanding of morality. It is for the moral novice that Hursthouse's definition and the v-rules are necessary. As the moral novice continues to engage with the moral world, the dependence on role models wanes, and he forms a more complete and explanatory moral understanding. Upon achieving moral expertise, he does not rely on role models and begins to deviate from the role models necessary in the early stages. The moral expert is virtuous, and grasps right action more or less directly, without reliance on any definition, or the v-rules.
+	- The analogy to ordinary practical skills is thorough. A person does not become an expert carpenter by studying a manual, but by attentively practicing carpentry. Strict guidelines and rules of thumb are necessary for the novice carpenter, but not the expert. Carpenters can be differently excellent as we think virtuous persons can be.
+	- Annas's model of ethical theory is consistent with what motivates ethical theory, namely the inadequacy of our pre-theoretical ethical views. But Annas takes a different, and plausibly more mature approach.
+
+## Primacy of Virtue
+- Virtue ethics appears committed to the claim that we have reason to fulfil our other-regarding duties because this is necessary for being virtuous, and we care about our own being virtuous.
+	- Virtue ethics appears so committed because the fundamental imperative in virtue ethics is that we should be virtuous. So the imperative, for example, to help others in need, derives from the imperative to be virtuous.
+	- Then it seems, we have reason to help others in need only because this is necessary to be virtuous, and we care about being virtuous. But we ordinarily think that our reason for helping others has to do with their need.
+- The virtue ethicist can claim that the grounds of our duties to others are facts about those others because being virtuous requires a responsiveness to such facts.
+	- For example, the virtue of kindness involves seeing the fact that another person is in need, or that another person's well-being is endangered as a reason to aid this person. So the grounds of such aid are such facts. It is because a virtuous agent cares about such facts that the virtuous agent acts rightly.
+	- Similarly for justice.
+	- More generally, the virtues are more than dispositions to act in certain ways (since these are better described as habits or compulsions), and are instead rich inner states that involve many modes of moral responsiveness. So the above strategy generalises.
+ - One worry about this response is that it is not consistent with treating virtue as fundamental.
+	 - It seems the virtue ethicist must recognise such moral concepts as well-being, need, and desert as in some sense prior to virtue because the virtues make reference to such concepts.
+	 - In other words, for the virtue ethicist to claim that the virtuous person responds to well-being, need, and desert, and is not simply concerned with his own being virtuous, the virtue ethicist must recognise the concepts of well-being, need, and desert as independent of virtue. It will not do, for example, to understand need as what the kind person responds to because kindness, in turn, is understood as involving responsiveness to need, so kindness and need are then circular and hollow.
+	 - If the virtue ethicist must recognise such concepts as prior (or at best "contemporaneous") to virtue, then these are equally fundamental to virtue, and the virtue ethicist is no virtue ethicist but some sort of pluralist.
+ - This objection does not defeat the virtue ethicist because the virtue ethicist need not recognise the concepts of well-being, need, and desert as morally significant independently of virtue.
+	 - The virtue ethicist would respond as follows. "Sure such things as well-being, need, and desert are independently meaningful concepts, but any moral significance these have derives from their being the sorts of things virtuous persons respond to. Some person's being in need does not itself supply moral reason to give aid, but only supplies such reason for a kind person."
+	 - Then, it remains that only virtue is fundamental in morality.
+ - Another worry about this response is that it leaves the imperative to fulfil our duties to others as hypothetical rather than categorical.
+	 - On this account, responsiveness to such things as well-being, need, and desert is not a requirement of rationality, but a requirement of virtue, so having reason to act rightly is contingent on being virtuous.
+	 - But we ordinarily think that moral reasons are inescapable, and that even the vicious person has reason to act rightly.
+ - That virtue ethics leaves our reasons for acting in accord with our duties to others hypothetical rather than categorical should not trouble us.
+	 - First note that the vicious person has reason to act rightly so long as he has some concern with being virtuous because acting rightly and being moved by such things as well-being, need, and desert, is necessary for being virtuous.
+	 - It remains the case that having reason to act rightly and be so moved is contingent on a concern for being virtuous. But this should not trouble us. It is not clear that any moral theory could persuade an amoralist to be moral. Virtue ethics can justify being moral to a moralist.
+ - The virtue ethicist argued that our grounds for fulfilling our other-regarding duties are facts about those others, but that such facts only supply reasons to so act because virtue requires responsiveness to such facts. This seems to merely relocate the problem.
+	 - The initial worry was that, by virtue ethical lights, our reason for fulfilling our other-regarding duties derive from our reason to be virtuous in that fulfilling such duties is necessary for being virtuous.
+	 - But then it seems that our reasons for fulfilling our other-regarding duties remains derivative from our reason to be virtuous in that such things as well-being, need, and desert supply reason to act rightly only because virtue requires such responsiveness.
+	 - So the virtue ethical reason for being so responsive seems to be the wrong sort of reason. It seems that our reasons for fulfilling our other-regarding duties must be other-regarding "all the way down".
+	 - After all, being moral involves not only moral action but also moral responsiveness, and a self-regarding reason (like a concern for one's own flourishing) seems to be the wrong kind of reason for being moral.
+ - The virtue ethicist does not simply relocate the problem, and the demand that our reasons for fulfilling our other-regarding duties are other-regarding "all the way down" is unreasonable.
+	 - Our reasons for fulfilling our other-regarding duties simply cannot be other-regarding "all the way down", because it is reasonable to demand an explanation of why we should be responsive to other-regarding reasons at all, and this demand will not be met by supplying some other-regarding reason to be so responsive.
+	 - When we demand a reason for being so responsive, we are asking something like "what about us is such that it makes sense for us to care about such things as other persons' needs, well-being, and deserts?" It is then reasonable to answer in terms of the sorts of beings we are.
+	 - So, for example, the eudaimonist virtue ethicist will answer that we are rational agents, social and political animals, and members of a moral community. Our flourishing is, in some sense, a specification of what we should care about, or what reasons we should be moved by, in light of our being such things. Then, that our flourishing requires it seems to be exactly the right kind of reason for responding to other-regarding reasons.
+
+## Flourishing
+- Virtue ethics is plausible only if it has some account of our reasons for being virtuous (which it requires). According to eudaimonist virtue ethics, we have reason to be virtuous because our flourishing consists in our being virtuous (and we have reason to pursue our flourishing).
+- The conception of flourishing as consisting in being virtuous seems unintuitive. The less than completely virtuous person who lives a thoroughly pleasant, luxurious life, fulfils many of his strongest desires, seems to have flourished more than the completely virtuous person to whom the world has been incredibly unkind.
+- The virtue ethicist does not share this intuition, and can undermine it.
+
+## Self-effacingness
+- Virtue ethics appears committed to the claim we have reason to fulfil our other-regarding duties because we this is necessary for being virtuous and we are concerned with our own being virtuous. But a person who acts from such concern is not virtuous, so virtue ethics will require agents blind themselves from the "true" ground of their duties to others.
+- The virtue ethicist will reject that the ground of our duties to others is a concern for our own being virtuous.
+- But this seems to only relocate the problem. It seems still less than virtuous to be responsive to the well-being, needs, and desert of others only because this is necessary for being virtuous, and we have a concern for being virtuous. So virtue ethics, it seems, will require agents to blind themselves to the "true" reason for being appropriately responsive.
+	- After all, moral responsiveness is just as much a part of being moral as moral action is, and we do not think that we should be moral because we care about our own flourishing.
+- The virtue ethicist does not simply relocate the problem. It is not less than virtuous to be so responsive because being so responsive is necessary for being virtuous and we are concerned with being virtuous.
+	- Our reasons for fulfilling our other-regarding duties cannot be other-regarding "all the way down". Every plausible ethical theory (perhaps event those that attempt to derive the substance of morality from its form) must at some point answer "what is it about the sort of beings we are that makes it reasonable to care about morality?"
+	- A Kantian deontologist would answer that it is our agency. Then, it seems, we have reason to be moral only because we care about being agents rather than "shmagents".

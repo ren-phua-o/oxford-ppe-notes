@@ -1,0 +1,45 @@
+# Entry and Predation Case Studies, Data
+
+## Belleflamme and Peitz, 2010
+
+### Berry and Waldfogel, 1999 (Belleflamme and Peitz, 2010, p. 87)
+- Berry and Waldfogel use data on advertising prices, the number of stations, and radio listening in 135 U.S. metropolitan statistical areas to estimate a demand function in each market, from which the fixed cost is estimated using the free-entry condition (in equilibrium, gross profit just covers fixed set-up costs). Given the estimates of revenues and fixed costs, Berry and Waldfogel compute the social optimum number of firms, and find that free entry is socially excessive. The welfare loss of free entry is calculated to be $40\%$ of industry revenue.
+
+### Dafny, 2005 (Belleflamme and Peitz, 2010, p. 410)
+- Dafny studied the market for electrophysiological studies (a medical procedure). Dafny observed a non-monotonic relationship between market potential and investment. Investments by incumbents in moderately attractive markets was greater (by a statistically significant margin) than investments in unattractive markets and in very attractive markets, following an announced reimbursement increase which increased the threat of entry.
+
+### Haas-Wilson, 1989 (Belleflamme and Peitz, 2010, pp. 414-415)
+- Haas-Wilson studied the optometry industry in the U.S. and found that the three largest commercial optometry chains opened $1.5-1.7$ fewer stores per year in fully regulated states compared to non-regulated states. This supports the hypothesis that self-employed optometrists were partially successful in deterring entry by larger commercial competitors by obtaining regulations constraining commercial operations.
+
+### Schmalensee, 1978 (Belleflamme and Peitz, 2010, p. 416)
+- The ready-to-eat breakfast cereal market in the U.S. remained highly concentrated from the 1940s to the 1970s, with a $4$-firm concentration ratio of $85\%$ and a $6$-firm concentration ratio of $95\%$. It was only in the early 1970s that several large firms were able to enter the market following a sharp increase in demand which incumbents failed to anticipate. Schmalensee argues that the absence of entry cannot be accounted for by large economies of scale, capital requirements, product differentiation, patents, or control of input sources. The absence of entry, according to Schmalensee, is attributable to incumbent firms' filling the product space by proliferating and promoting brands through intensive advertising. The $6$ incumbents introduced over $80$ brands between 1950 and 1972.
+
+## Cabral, 2017
+
+## [Ghemawat, 1984](https://www.jstor.org/stable/2098506)
+
+## [Goolsbee and Syverson, 2008](https://www.jstor.org/stable/40506218)
+- Goolsbee and Syverson study the response of incumbent major airlines to the threat of entry by Southwest Airlines in the U.S. from 1993 to 2004. Goolsbee and Syverson find that when Southwest begins operating out of two airports, but has not yet offered direct flights between the two airports, such that incumbents offering flights on this route face a heightened threat of Southwest's entry but do not yet face actual entry, incumbents decrease average fares on this route substantially. The decrease in average fares by incumbents in response to the threatened entry is greater than the decrease in average fares by incumbents following actual entry. The decrease in fares is not explained by shifts in airport-specific operating costs.
+- The response of incumbents to the threat of entry by Southwest observed by Goolsbee and Syverson may be understood as an investment in customer loyalty, which has the direct effect of reducing Southwest's profit were it to enter, thus deterring entry. Alternatively, the investment in customer loyalty could be understood as an effort to accommodate entry, since investment in customer loyalty softens price competition in the event that Southwest enters.
+
+## [Bresnahan and Reiss, 1991](https://www.jstor.org/stable/2937655)
+- Bresnahan and Reiss study the relationship between market size and the number of local providers of (relatively) homogenous services (e.g. doctors, dentsits, and druggists) in 202 geographically isolated markets in the U.S. Bresnahan and Reiss find that the town population required to support two firms is significantly more than double the population required to support one firm, and that in general, the number of firms increases less than proportionately with the size of the market, up to $4$ firms.
+- This observation is mostly consistent with the Cournot free entry model. That the market size per firm does not increase beyond $4$ firms suggests that firms' margins are not eroded by entry of subsequent firms.
+- Bresnahan and Reiss also studied the prices of tire dealers in the U.S., and find that the prices of tires falls as entry occurs and the number of tire dealers in the market increases.
+- This observation is consistent with the Cournot free entry model, under which entry erodes margins.
+
+## [Campbell and Hopenhayn, 2005](https://www.jstor.org/stable/3569752)
+- Campbell and Hopenhayn study the size of producers in 13 retail trade industries in 225 markets of different sizes in the U.S. in 1992. Campbell and Hopenhayn find that in most industries, market size has a significant positive effect on firms' average sales and employment. A doubling of market size corresponds to an increase in average sales of $3\%$ to $19\%$.
+- This observation is consistent with the Cournot free entry model. Under this model, an increase in market size makes entry more attractive, entry erodes margins, hence firms offset the decrease in margins by increasing volume such that profits net of set-up costs remain (weakly) positive.
+
+## [Ellison and Ellison, 2011](https://www.jstor.org/stable/41237170)
+- Ellison and Ellison study incumbents' advertising, product proliferation, and pricing decisions as their pharmaceutical patents approached expiry in the U.S. between 1986 and 1992. Ellison and Ellison find that, in some cases, the relationship between strategic investment (in advertising, product proliferation, or customer loyalty or goodwill through lower pricing) has a non-monotonic relationship with market size. Incumbents over-invest in intermediate-sized markets and under-invest in small or large markets.
+- This observation is consistent with the theory of strategic entry deterrence. In small markets, no investment is required to deter entry. In large markets, it is impossible to deter entry. Therefore, the incentive to deter entry through strategic investment is greatest in intermediate-sized markets.
+
+## [Kadiyali, 1996](https://www.jstor.org/stable/2555839)
+- In the U.S. consumer market for photographic film, Eastman Kodak enjoyed a virtual monopoly in the 1970s. Fuji Photo Film of Japan only successfully entered the market in 1980. Kodak accommodated the entry of Fuji by maintaining high prices (relative to its variable cost and to Fuji's price) in order to soften price competition and adopting a "Fat Cat" stance by over-investing in market-expanding advertising (which benefited Fuji more than it benefited Kodak), in order to soften price competition.
+
+## [Lieberman, 1987](https://www.jstor.org/stable/2098590)
+- Lieberman studied rates of market growth and capacity utilisation in periods just prior to the construction of new plants by entrants and incumbents in a sample of $38$ chemical product industries from 1952 to 1982. Lieberman found that the threshold levels of market growth and capacity utilisation required to induce investment in an additional plant were similar for incumbents and entrants.
+- This observation is not consistent with the hypothesis that incumbent firms maintained excess capacity in order to deter entry. If incumbents maintained excess capacity in order to deter entry, we would expect that incumbents expand capacity pre-emptively at a lower threshold than entrants.
+- This finding is, however, not decisive, since the decision of an incumbent to open an additional plant and the decision of an entrant to open an additional plant are not symmetrical decisions. Incumbents can often expand through incremental additions to existing plants, which plausibly increases the threshold of market growth and capacity utilisation required to induce investment in an additional plant. Incumbents may open an additional plant not in an effort to expand capacity, but to replace existing capacity. This would reduce the sensitivity of incumbent investment to rates of market growth and capacity expansion, hence impose a negative bias on the observed thresholds. If the net effect of these asymmetries increases the threshold at which incumbents invest in an additional plant, the empirical observation could be consistent with an incentive for incumbents to deter entry by maintaining excess capacity.

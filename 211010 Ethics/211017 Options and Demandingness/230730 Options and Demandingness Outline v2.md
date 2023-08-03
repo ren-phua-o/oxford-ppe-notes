@@ -1,0 +1,49 @@
+# Options and Demandingness Outline
+
+## Demandingness
+- Simple act consequentialism appears to be too demanding in a straightforward sense: it requires agents to bear unreasonably high costs.
+	- Illustrate with the Bodybuilder and the Workman, or with the Philosophy Student and the Young Oncologist.
+- Sobel argues that the crude demandingness objection is not an independently forceful objection to consequentialism because it presupposes a prior break with consequentialism.
+	- The demandingness objection finds that the costs that consequentialism requires agents to bear are unreasonable.
+	- But the costs that non-consequentialist theories permit to befall others are also significant.
+	- If the costs that consequentialism requires agents to bear are unreasonable, then these costs must be smaller than those that non-consequentialist theories require.
+	- Any reason for thinking that these latter costs are smaller is patently non-consequentialist. Two such reasons are that the costs that a moral theory permits to befall some person are smaller than the costs that a moral theory requires some person to bear, and that persons have certain rights.
+	- Illustrate with the Bodybuilder and the Workman, or with Sally and Joe.
+- Simple act consequentialism appears to be too demanding in that it requires that agents step aside from their ground projects too often or too readily.
+	- A person's ground projects are the identity-conferring commitments that constitute what that person takes his life to be about. These include our convictions, goals, and special relationships.
+	- Illustrate with the Bodybuilder and the Workman.
+- Sobel would argue that the "substantive" integrity objection is not an independently forceful objection to consequentialism because it presupposes a prior break with consequentialism.
+	- The "substantive" integrity objection finds the cost that consequentialism requires agents to bear, specifically their stepping away from their ground projects, unreasonable.
+	- But the costs that non-consequentialist theories require others to bear, specifically their being unable to pursue their ground projects, are also significant.
+	- Any reason to think that the former costs are larger than the latter is patently non-consequentialist.
+- The "formal" integrity objection finds unreasonable not that simple act consequentialism requires that agents step aside from their ground projects, but that it is inconsistent with agents having any commitments at all, let alone ground projects.
+	- Simple act consequentialism requires that agents act contrary to their commitments if and just because so acting (even marginally) better promotes the agent-neutral good.
+	- But to be committed to something is to be bound to it in some way that one would not so easily abandon it. The sort of thing that a person could act contrary to if and just because so acting (even marginally) better promotes the agent-neutral good is not a commitment but an inclination, and only a slight inclination.
+	- Illustrate with Birthday Cake.
+	- Consequentialism requires that we have no commitments, let alone ground projects. It demands that we act as automatons rather than persons.
+- A person's having commitments and ground projects only matter to the extent that such commitments are not based on factual mistakes. The consequentialist would argue that non-consequentialist commitments are based on a mistake about the permissibility of what these commitments commit a person to.
+	- What we are committed to is only valuable to us if our commitment is not based on a factual mistake.
+	- Illustrate with an example.
+	- The consequentialist will argue that non-consequentialist commitments are based on a mistake about moral facts, namely the fact that what such commitments commit us to is permissible.
+	- According to the consequentialist, if the father in Birthday Cake were to find out that delivering the cake to his son were impermissible, he would not be committed to doing so.
+- The conclusion that consequentialism requires that we have no commitments, let alone ground projects, and that we act as automatons rather than persons is too fast. There is room for the ground project of consequentialism.
+	- Consequentialist commitments and ground projects are compatible with consequentialism because consequentialism will never require agents to step back from their commitment to act as consequentialism requires.
+	- So consequentialism does not demand that we act as automatons, but that we be consequentialists. Surely this is entirely unsurprising.
+	- A world consisting exclusively of consequentialists is aesthetically objectionable but not morally objectionable. Suppose consequentialism turns out to be true, and an overwhelming argument for consequentialism is constructed, and all persons autonomously become consequentialists. There is surely nothing morally objectionable in this.
+- Even if consequentialism leaves room for the consequentialist commitment and ground project, it seems to still demand that agent act as (consequentialist) automatons, it seems to still leave no room for character.
+	- What the integrity objection identifies as problematic is not simply that having ground projects is impermissible by consequentialist lights, but that having a character is impermissible by consequentialist lights.
+	- A person's commitments and ground projects constitutes that persons character only if such commitments and ground projects belong to that person as an autonomous agent.
+	- A necessary condition for such commitments' so belonging to an agent is that those commitments are chosen by the agent from a palette of options.
+	- If, by consequentialist lights, only one set of commitments (the set containing only the consequentialist commitment) is permissible, then, within the bounds of moral permissibility, an agent could not choose his commitments from a palette of options, and could not have character.
+	- A person, acting permissibly, could not be described as constructing a character. His actions cannot be described as being a function of the person he is, but only as fulfilling the moral requirements that bind him.
+- Kagan contends that the loss of autonomy in this sense is unproblematic and unlike a loss of political or bodily autonomy, in that consequentialism cannot literally force a person to act in some way or another, and it is being forced to act that is the objectionable element of threats to political or bodily autonomy.
+- Shiffrin argues that Kagan's contention misses the point when moral autonomy is understood as above. It is also objectionable to be left with no room to morally exercise one's capacity for choice.
+- The consequentialist could reject that consequentialism leaves (moral) room for only one set of commitments.
+	- Illustrate with Wife and Kids.
+	- Similarly, the consequentialist will maintain that it is possible to hold both ordinary, non-consequentialist commitments and the consequentialist commitment to promote the agent-neutral good. That ordinary commitments will at times conflict with consequentialist commitments does not eliminate this possibility in the same way that conflicts between wife-commitments and children-commitments do not eliminate the possibility of holding both.
+	- Any "consequentialist-plus" set of commitments is permissible by consequentialist lights. So agents can permissibly construct their identities.
+- One worry about this consequentialist response is that the "consequentialist-plus" sets of commitments are not different in a way that leaves room for character.
+	- One fears that the wife-consequentialist and the kids-consequentialist have the same character.
+	- This worry is misplaced.
+	- Illustrate with Neighbour's Dog.
+	- Consequentialism does not demand that agents abandon their characters, merely that agents should have consequentialist characters. This is unsurprising and unproblematic.

@@ -1,0 +1,144 @@
+# Contractualism Outline
+
+## Phenomenological Argument
+- Scanlon argues that contractualism offers an account of moral deliberation and acting morally that is uniquely accurate to the phenomenology of moral deliberation and moral action.
+	- State the contractualist criterion for right (wrong) action.
+	- Explain the contractualist account of moral motivation.
+		- By contractualist lights, we have reason to act rightly because we act justifiably iff we act rightly, to act justifiably is to stand in relationships of mutual recognition to others, and such relationships are the appropriate sort of relationships between persons (as such).
+		- In other words, we respond appropriately to the status of others as persons by acting in a way that is justifiable to them, and we act rightly iff we act justifiably.
+	- This seems accurate to the phenomenology of doing wrong. Doing wrong, as such, simply feels like acting in a way that one cannot justify to others.
+	- This seems accurate also to the phenomenology of moral motivation. Being moved by the wrongness of an action to not so act simply feels like being moved by the thought that so acting is not justifiable.
+	- Illustrate with the Wealthy Aunt example.
+- Scanlon argues that the contractualist account is not only phenomenologically accurate at this high level, but also accounts for the phenomenological intricacies of moral deliberation.
+	- Moral deliberation involves treating some reasons as exclusionary.
+	- Illustrate with an example.
+	- Explain the contractualist account of this phenomenon.
+		- By contractualist lights, we have "higher-order" reason to treat these "first-order" reasons as exclusionary because others could reasonably reject our having "one thought too many" or being inadequately responsive to these "first-order" reasons.
+	- Moral deliberation involves treating some reasons as silenced.
+	- Illustrate with an example.
+	- Explain the contractualist account of this phenomenon.
+		- By contractualist lights, we have "higher-order" reason to treat these "first-order" reasons as silenced because others could reasonably reject our affording these reasons any weight.
+- This contractualist account of the phenomenological intricacies of moral deliberation is unattractive because it suggests that our moral deliberation is some form of false consciousness.
+	- Recall that on the contractualist account of moral motivation, our reasons for acting rightly are ultimately because so acting is constitutive of standing in the appropriate sort of relationship between persons.
+	- If we have "higher-order" contractualist reason to treat some "first-order" reasons as exclusionary, then contractualism requires blinding ourselves to the true (by contractualist lights) reason for acting rightly.
+	- This would be odd and phenomenologically inaccurate. We do not feel such a tension between the "true" reason for acting rightly and the reasons we are required to treat as exclusionary. We do not feel that we have blinded ourselves to the "true" reason for acting rightly.
+- Wallace responds that the contractualist need not account for this feature as the product of some "higher-order" reason, and can account for this feature as our moving very quickly through trivial steps in moral deliberation.
+	- We are moved by "first-order" reasons because they are relevant to justifiability hence relevant to wrongness.
+	- We treat such reasons as exclusionary because the inference from these reasons to wrongness is trivial, so the "intermediate steps" are "internalised" and "suppressed" in our moral deliberation.
+	- This sort of internalisation and suppression is entirely ordinary, and common to prudential reasoning and even theoretical reasoning.
+- But then it seems any moral theory can help itself to Wallace's strategy. Then the contractualist account of this feature of moral deliberation is not uniquely phenomenologically accurate.
+	- Contrast with utilitarianism and deontology.
+- Then it seems contractualism is only uniquely phenomenologically accurate at a "high level", in its account of wrong action and in its account of being motivated to avoid wrong action.
+- But even at a "high level", it is not clear that contractualism is uniquely phenomenologically accurate.
+	- Doing right, as such, feels like "doing what I must" not "doing what I can justify to others".
+	- Being motivated to do right feels like being simply moved by "I must do that" not "I could not justify not doing that".
+- The contractualist could respond that the above phenomenology is the phenomenology of doing right and being moved to do right in the broadly moral sense, rather than in the more narrow sense of "what we owe to each other".
+
+## Redundancy
+- The contractualist concept of justifiability seems to be a redundant ground of wrongness because, by contractualist lights, for every wrong action, there is some reason for rejecting principles that permit it, so it seems these reasons would also be sufficient grounds for wrongness.
+	- State the contractualist criterion for wrongness.
+	- Clarify the comparative nature of reasonable rejectability.
+	- Then, reasons for rejection of principles seem also sufficient for the wrongness of actions, so unjustifiability is redundant ground for wrongness.
+	- Illustrate with the Torture example.
+	- Explain that contractualist justifiability treats reasons for rejection as "antecedent" to justifiability. So justifiability seems redundant.
+		- Informally, reasons for rejection "come first".
+- Stratton-Lake argues that this redundancy objection is premised on a misunderstanding of Scanlon's contractualism as an account of the grounds of wrongness rather than the essence of wrongness, in other words, as an account of what makes an act wrong rather than an account of what wrongness is.
+	- Then, first-order reasons for rejection are the sole ground of wrongness, and unjustifiability is not a ground of wrongness.
+	- Illustrate with the Torture example.
+- The original redundancy objection alleges that contractualism offers a redundant ground for the wrongness of an act. Stratton-Lake's "new and improved" redundancy objection alleges that contractualism (even interpreted as above) offers a redundant reason for right action.
+	- Scanlon maintains that wrongness is itself reason-giving.
+	- Intuitively, first-order reasons for rejection are also sufficient reasons for acting rightly.
+	- Both sorts of reasons seem sufficient.
+	- Illustrate with the Torture example.
+	- It is odd to have two individually sufficient reasons for acting rightly. One is redundant (in the sense of not necessary for acting rightly).
+	- Given that contractualist justifiability treats reasons for rejection as "antecedent" to justifiability, it seems justifiability is redundant.
+- Stratton-Lake suggests that contractualists should abandon the reason-giving force of wrongness.
+	- Then, only first-order reasons for rejection constitute reasons to act rightly.
+- Stratton-Lake's concession is costly to the Scanlonian contractualist because one of the appeals of contractualism is that it offers a compelling account of our reasons for acting rightly.
+	- According to Scanlon, the contractualist account successfully explains the Priority and Importance of moral reasons while avoiding both horns of Prichard's dilemma.
+	- Explain Priority, Importance, and Prichard's dilemma.
+	- It is not clear that first-order reasons for rejection have the same Priority and Importance, nor that some analogue of Prichard's dilemma applies. Then, Stratton-Lake's concessionary contractualism does not share the appeals of Scanlon's contractualism.
+	- Illustrate with an example.
+- Ridge rejects the first-order reasons for rejection also, as such, constitute reason for acting rightly. The reasons that ground reasonable rejection are personal reasons like "that would hurt me", which are not, as such, reasons for any person who would not be hurt to not so act.
+	- State the personal reasons restriction.
+	- Motivate the personal reasons restriction.
+		- The personal reasons restriction is apparently motivated by Scanlon's identification of the domain of interpersonal morality as the subject matter of contractualism, and the contractualist focus on justifiability. It quite naturally follows that it is to other persons (as such) that we right actions must be justified.
+	- Clarify the personal reasons restriction with the Smith example.
+		- From some person's personal standpoint, that Smith is hurt constitutes a reason only if Smith means something to that person.
+	- Then, personal first-order reasons for rejection are not (generally) as such, reasons for an agent to not act wrongly.
+	- Illustrate with the Persecution example.
+
+## Saving the Greater Number
+- Scanlonian contractualism appears unable to yield the intuitive result that we should save the greater number. It appears committed to a "Taurekian" solution of deciding by coin-flip.
+	- State the contractualist criterion for wrongness.
+	- Clarify the comparative nature of reasonable rejectability.
+	- State the generic, personal, individual reasons restriction.
+	- Compare complaints against the Taurekian "coin-flip" principle and complaints against principles requiring saving the greater number.
+- Scanlon argues that the complaints against the Taurekian principle have been understated. The Taurekian principle fails to treat the life of the "additional" member of the larger group as morally significant, and permits the agent to act "as if this additional member's life were not at stake".
+	- In the one-to-one case, the agent decides by coin flip, if the agent decides by coin flip in the two-to-one case, then it seems the agent treats the additional life as of no moral significance.
+	- Evaluate the complaints against the Taurekian principle and against principles that require saving the greater number.
+- It is simply not true that the Taurekian principle permits the agent to act as if the "additional" member of the larger group's life were not at stake.
+	- The agent decides by coin flip in both cases, but makes a different decision by coin flip. In the one-to-one case, the agent decides between saving one and saving another. In the two-to-one case, the agent decides between saving two and saving another one.
+	- If the agent were to treat the "additional" life as of no moral significance, the agent would flip a coin, and save one member of the large group if heads, and one member of the small group if tails.
+	- So the agent does treat the additional life as (at least somewhat) morally significant.
+- Scanlon would respond that the moral significance of the "additional" life is not adequately responded to by the agent under the Taurekian principle.
+	- But it is not clear what constitutes an "adequate" response. One suggestion is that the probabilities that others are saved must be affected by the "additional" life at stake. But there is no reason to think that the required adjustment is so drastic (from $50-50$ to $100-0$). And if this is required, it cannot be the case that saving the greater number is required in both the five-to-one case and in the five-to-two case.
+- Other "clever" solutions appear unsuccessful. For example, Kumar argues that complaints of persons in the two groups neutralise each other, so only the un-neutralised complaints ground reasonable rejection.
+	- Then, in a second temporal stage, having chosen to save some members (whose complaints are not neutralised) of the larger group, it seems contractualism will require the costless saving of the remaining members.
+	- This is unsuccessful because it seems to permit saving no lives in the one-to-one case.
+- It seems the contractualist should reject a requirement to save the greater number. It seems, after all, that no person is wronged if the agent saves the smaller group. The demand of each member of the larger group to be saved is no more reasonable than that of each member of the smaller group. The agent could justify himself to each member of the larger group by saying "if I had saved you, then each person in the smaller group would have died".
+- But saving the greater number appears to be a moral requirement, so the contractualist will maintain that it is a requirement of morality beyond the narrow scope of "what we owe to each other" or "interpersonal morality".
+	- This seems intuitively and phenomenologically implausible. Our response to an agent who wilfully saves only one person when he could instead have saved a hundred is the same sort of horror as our response to a murderer. Both seem to us equally grave violations. In Scanlon's words, our reason to save the greater number seems just as Important as our reason not to murder.
+	- Also, that by saving one instead of two (or ninety nine instead of a hundred) one affords the time for a nap is no reason to save the smaller group. The reason we have to save the greater number has Scanlonian Priority.
+	- A failure to save the greater number feels like the same sort of wrong, from the standpoint of the agent, a bystander, or a patient, as for example, inflicting needless harm.
+	- So where Scanlon goes wrong is in identifying "what we owe to each other" as a special domain of morality. We have obligations not only to each other person, but to other persons as groups. Scanlon trades on the ambiguity between "each other" in the precise sense of "each other person" and in the more regular sense of "other people (collectively and individually)".
+
+## Demandingness
+- Scanlonian contractualism appears able to block the demanding obligations that certain forms of aggregative consequentialism seem committed to.
+	- State the contractualist criterion for wrongness.
+	- Clarify the comparative nature of reasonable rejectability.
+	- State the generic, personal, individual reasons restriction.
+	- Illustrate with the Sacrifice example.
+- Scanlonian contractualism still seems committed to endorsing extremely demanding principles of aid.
+	- Evaluate the complaints of those in dire straits against less demanding principles of aid and the complaints of those in a position to give aid against more demanding principles of aid.
+	- Illustrate with the Chronic Global Poverty example.
+- One response to the demandingness objection alleges that the complaints of those in dire straits against less demanding principles of aid have been overstated.
+	- Motivate this response.
+		- The demandingness of contractualism turns on the relative strength of the relevant complaints, so a sympathetic (to contractualism) reader would worry that the unintuitive result is a product of "faulty inputs" rather than a faulty theory.
+	- Under more demanding principles of aid, those in dire straits incur some cost in being, on other occasions, called upon to give aid. This tempers their complaints against less demanding principles of aid. This tempered complaint is "under such principles, while the costs to me of giving aid would be greater, this is outweighed by the benefits to me of receiving aid should I require it."
+- This response is unsuccessful because in certain contexts, the costs to those in dire straits of a demanding principle of aid are limited because such persons are rarely if ever able to give much aid. So these costs are small, and do not much temper the complaints against less demanding principles of aid.
+	- Refer to the example of Chronic Global Poverty.
+- Another response to the demandingness objection alleges that the complaints of those in a position to aid against more demanding principles of aid have been understated.
+	- The cost of such demanding principles is high.
+		- These costs include the cost of continuous attention to need, and insecurity in the possession of goods.
+		- Scanlon is explicit that the costs of a general regulation of behaviour by some principle go beyond the costs of acting in accordance with such principles.
+	- Such demanding principles may be objectionable not only because of the high costs to those in positions to give aid, but also because of the attitudes to such persons they embody.
+		- Such principles fail to treat those in positions to give aid as autonomous agents whose lives and bodies are meaningfully their own.
+- This response is unsuccessful because the complaints of those in dire straits are stronger still.
+	- Illustrate with the Chronic Global Poverty example.
+- Ashford argues that the demandingness of contractualism ought not to count against it because any plausible moral theory must treat persons as having equal moral status, and so under such extreme circumstances, will yield the same result.
+
+## Social Risk
+- Scanlonian contractualism appears to yield implausible prohibitions of intuitively permissible risky practices.
+	- Scanlon stipulates that the complaint against some principle permitting a risky practice is not diminished by the ex ante improbability of the harmed person's being harmed.
+	- Illustrate Scanlon's stipulation with the Medical Experimentation example.
+	- Illustrate the implausible prohibition with the Passenger Air Travel example.
+- Scanlonian contractualism appears committed to such results because of Scanlon's stipulation that the justifiability of principles governing risky behaviour are to be evaluated "ex post" rather than "ex ante".
+	- Illustrate the ex ante result with the Passenger Air Travel example.
+- But an ex ante contractualism appears to yield implausible permissions for intuitively impermissible risky practices.
+	- Illustrate the ex ante result with the Medical Experimentation example.
+- Kumar argues that such risky practices can be blocked not on the basis of their riskiness but on the basis of their violating constraints.
+	- Explain Scanlon's broad conception of reasonable rejection.
+	- Argue that a principle prohibiting killing (with reasonable exceptions for self-defense, emergencies, and criminal punishment) could not be reasonably rejected.
+	- Medical Experimentation involves the offensive sort of killing but Passenger Air Travel does not.
+- Frick argues that Kumar's suggestion is not sufficient to meet the objection that ex ante contratualism yields implausible permissions. Counterexamples remain where no constraint is apparently violated.
+	- Curing $90$ and letting $10$ die in Two Stage Treatment is intuitively impermissible while curing $90$ and letting $10$ die in Risky Treatment is intuitively permissible, even though the two cases are ex-ante identical and no constraint is apparently violated in either case.
+- Plausibly, the form of contractualism most consistent with the motivations for contractualism is a compound contractualism.
+	- This differs from Frick's preferred stage-wise ex ante contractualism in also considering ex post complaints. Frick's insight is that reasonable rejectability at each temporal stage is relevant.
+	- Consideration of interim complaints distinguishes the case of Two Stage Treatment from the case of Risky Treatment.
+- A compound contractualism appears to yield implausible prohibitions.
+	- Explain the result in Passenger Air Travel.
+- Compound contractualism appears to yield implausible prohibitions only because the relevant principles have been mischaracterised.
+	- Characterise the broader principle that justifies risky practices.
+		- When we think that passenger air travel is justified, we do not think that it is justified by so narrow a principle as "passenger air travel is permissible" but rather by some broader principle like "it is permissible to engage in a risky practice, even where this risk is imposed on a non-beneficiary, so long as the harms inflicted are sufficiently minor and/or improbable, the benefits of the risky practice are sufficiently significant and/or widespread, and the risky practice does not violate reasonable constraints".
+	- This solution has a further advantage of reflecting Scanlon's intuition, that the cost of more restrictive principles governing risky activities is the relevant "countervailing force". This solution succeeds where Scanlon fails because by framing the principles which justify risky practices in suitably general terms, the cost of more restrictive principles governing risky practices is incurred by each person, including the persons most harmed, this cost is made to "do twofold philosophical work", first as tempering the complaint against less restrictive principles, and second as constituting the complaint against more restrictive principles.
