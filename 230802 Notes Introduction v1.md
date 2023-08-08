@@ -1,5 +1,5 @@
 # Notes Introduction
-**📂 [Download](https://github.com/ren-phua-o/oxford-ppe-notes/archive/refs/heads/master.zip) 💻[Browse on GitHub](https://github.com/ren-phua-o/oxford-ppe-notes)**
+**📂 [Download](https://github.com/ren-phua-o/oxford-ppe-notes/archive/refs/heads/master.zip) 💻 [Browse on GitHub](https://github.com/ren-phua-o/oxford-ppe-notes)**
 
 I am Ren (PPE, 2023). These are notes and exercises that I have written and completed during the course of my undergraduate study. It is my hope that these will be of use to future cohorts of Oxford undergraduates.
 
