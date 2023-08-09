@@ -1,6 +1,3 @@
----
-description: Notes and completed exercises by Ren Phua (2023) for the BA in Philosophy, Politics, and Economics (PPE) at the University of Oxford.
----
 **📂 [Download](https://github.com/ren-phua-o/oxford-ppe-notes/archive/refs/heads/master.zip) 💻 [Browse on GitHub](https://github.com/ren-phua-o/oxford-ppe-notes)**
 ## Notes Introduction
 
