@@ -1,2 +1,3 @@
 # Economics of Industry Notes Introduction
+
 These notes are the most comprehensive of the notes in this set. To score well, it is sufficient to understand and memorise the "Notes" for each topic. The "Outline"s summarise the "Note"s and are useful for writing flashcards. I prepared for the following topics: Oligopoly, Entry and Predation, Product Differentiation, Price Discrimination, and Horizontal Merger.

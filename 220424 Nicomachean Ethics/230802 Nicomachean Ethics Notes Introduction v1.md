@@ -1,2 +1,3 @@
 # Nicomachean Ethics Notes Introduction
+
 The "Reading" notes in this folder are useful as a companion to the primary text, and can be read as "Nicomachean Ethics in plain English". The "Notes" present the common dialectics for each topic. I prepared to write essays (and also commentaries) on Function Argument, Akrasia, Pleasure, and Eudaimonia. Additionally, I prepared to write commentaries (but not essays) on Doctrine of the Mean, Responsibility, and Justice. Fortunately, the exam tends to remain relatively close to the common dialectics, so understanding and memorising the "Notes" should be sufficient for writing competent essays. Familiarity with the text and strong philosophical instincts are necessary for writing competent commentaries.

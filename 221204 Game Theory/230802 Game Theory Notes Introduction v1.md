@@ -1,2 +1,3 @@
 # Game Theory Notes Introduction
+
 These notes primarily serve to summarise the lectures, structure the content of each week in a more intuitive way, and emphasise the examinable or commonly examined sections. To score well, practice extensively on past papers. I prepared for all topics except Efficient Mechanism Design and Information Transmission. Peter Eso's notes on Strategic Form Games and Bayesian Games are excellent.

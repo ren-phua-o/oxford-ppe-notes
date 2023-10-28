@@ -1,2 +1,3 @@
 # Microeconomics Notes Introduction
+
 These notes are exceedingly brief because of significant overlap between Microeconomics content and content from Economics of Industry (overlaps Industrial Organisation topic), Game Theory (overlaps with the obvious), and Microeconomic Analysis (overlaps with Risk and Information Economics). The remaining topics are General Equilibrium, Welfare, and Applied Welfare. These are examined in a relatively predictable manner, and practice on the past papers should be sufficient to score well on these topics.

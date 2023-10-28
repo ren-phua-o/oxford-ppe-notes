@@ -1,2 +1,3 @@
 # Microeconomic Analysis Notes Introduction
+
 These notes primarily serve to summarise the lectures, structure the content of each week in a more intuitive way, and emphasise the examinable or commonly examined sections. To score well, practice extensively on past papers. I prepared for all topics except Dynamic Optimisation, which, to my knowledge, no student attempted in either the collection or the exam.
