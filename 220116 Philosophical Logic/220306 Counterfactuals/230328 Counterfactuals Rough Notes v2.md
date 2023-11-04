@@ -11,7 +11,7 @@
 - Definition (SC-wff)
 	- $\lnot,\rightarrow,\Box,\Box\!\!\rightarrow$ are the SC-connectives, $P,Q,R,P_1,Q_1,R_1,P_2,\ldots$ are the SC-sentence letters.
 	- Each sentence letter $\alpha$ is a SC-wff.
-	- If each of $\phi$ and $\psi$ is a SC-wff, then each of $\lnot\phi$, $(\phi\rightarrow\psi)$, $\Box\phi$, and $\phi\Box\!\!\rightarrow\psi$ is a MPL-wff.
+	- If each of $\phi$ and $\psi$ is a SC-wff, then each of $\lnot\phi$, $(\phi\rightarrow\psi)$, $\Box\phi$, and $\phi\Box\!\!\rightarrow\psi$ is a SC-wff.
 	- Only strings that can be shown to be SC-wffs by the above clauses are SC-wffs.
 
 ### Semantics
