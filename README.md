@@ -10,7 +10,7 @@ I graduated with First Class Honours, ranked top in the cohort, and achieved the
 |Paper|Mark|Highest Mark in Cohort|
 |---|---|---|
 |Microeconomics|84 🥈|85|
-|Quantitative Economics|77|Undisclosed|
+|Quantitative Economics|77|87|
 |Economics of Industry|74 🥈|75|
 |Game Theory|91 🥇|91|
 |Microeconomic Analysis|80 🥇|80|

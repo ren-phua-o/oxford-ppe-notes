@@ -2,16 +2,16 @@
 
 ## Demandingness
 - Simple act consequentialism appears to be too demanding in a straightforward sense: it requires agents to bear unreasonably high costs.
-	- Illustrate with the Bodybuilder and the Workman, or with the Philosophy Student and the Young Oncologist.
+	- Illustrate with the Philosophy Student and the Young Oncologist. (See below for cases.)
 - Sobel argues that the crude demandingness objection is not an independently forceful objection to consequentialism because it presupposes a prior break with consequentialism.
 	- The demandingness objection finds that the costs that consequentialism requires agents to bear are unreasonable.
 	- But the costs that non-consequentialist theories permit to befall others are also significant.
 	- If the costs that consequentialism requires agents to bear are unreasonable, then these costs must be smaller than those that non-consequentialist theories require.
 	- Any reason for thinking that these latter costs are smaller is patently non-consequentialist. Two such reasons are that the costs that a moral theory permits to befall some person are smaller than the costs that a moral theory requires some person to bear, and that persons have certain rights.
-	- Illustrate with the Bodybuilder and the Workman, or with Sally and Joe.
+	- Illustrate with Sally and Joe.
 - Simple act consequentialism appears to be too demanding in that it requires that agents step aside from their ground projects too often or too readily.
 	- A person's ground projects are the identity-conferring commitments that constitute what that person takes his life to be about. These include our convictions, goals, and special relationships.
-	- Illustrate with the Bodybuilder and the Workman.
+	- Illustrate with Birthday Cake
 - Sobel would argue that the "substantive" integrity objection is not an independently forceful objection to consequentialism because it presupposes a prior break with consequentialism.
 	- The "substantive" integrity objection finds the cost that consequentialism requires agents to bear, specifically their stepping away from their ground projects, unreasonable.
 	- But the costs that non-consequentialist theories require others to bear, specifically their being unable to pursue their ground projects, are also significant.
@@ -47,3 +47,15 @@
 	- This worry is misplaced.
 	- Illustrate with Neighbour's Dog.
 	- Consequentialism does not demand that agents abandon their characters, merely that agents should have consequentialist characters. This is unsurprising and unproblematic.
+
+## Cases
+- Philosophy Student and Young Oncologist
+	- Consider the case of the Philosophy Student and Young Oncologist. A trolley is hurtling down some tracks towards a young oncologist, and will kill the young oncologist if a philosophy student does not stop the trolley by throwing his body in front of it (and dying in the process). The young oncologist, if he survives, will succeed in saving many lives and alleviating the suffering of a great number of cancer patients. The philosophy student will accomplish far less in his career if he does not save the young oncologist. Simple act consequentialism appears to demand that the philosophy student must sacrifice his life to save the young oncologist because the outcome of his so doing would be better in agent-neutral terms than the outcome should he do otherwise. But we might think it implausible that this is morally required of the philosophy student.
+- Sally and Joe
+	- Consider the case of Sally and Joe. Sally suffers from kidney failure, and requires a kidney transplant in order to survive. Joe has two functioning kidneys and could donate one kidney to Sally, which would save her life. Consequentialism demands that Joe save Sally’s life by donating one of his kidneys. Joe’s so acting would impose a high cost on Joe (he loses a kidney). But Joe’s failure to so act would impose a higher cost on Sally (she dies). The non-consequentialist thinks it more demanding on Joe that he donate the kidney than it is demanding on Sally that Joe not donate the kidney. This seems to presuppose a prior break with consequentialism. For example, the objector might have presupposed that the kidney belongs to Joe (attributed non-consequentialist rights to Joe over "his" kidney).
+- Birthday Cake
+	- Consider the case of Birthday Cake. A parent is fetching a birthday cake from the store to his child’s birthday party when he is informed that a birthday party for another child in the city is missing a birthday cake. This latter child is a stranger to the parent, but more guests have been invited to the latter party. Suppose that the agent-neutral good would be (marginally) better promoted if the cake is delivered to the latter party than to the former, because fewer guests would be disappointed. Consequentialism would demand that the parent deliver the cake to this latter party rather than to his child’s party; it demands that the parent act contrary to his commitment to his child if and just because doing so would better promote the agent-neutral good.
+- Wife and Kids
+	- We think it is possible for an agent to be committed to both his wife and his children. It is possible for an agent to be so committed even if at times, the two commitments conflict. For example, if the agent must leave his children at the daycare to celebrate his anniversary with his wife.
+- Neighbour's Dog
+	- Consider two consequentialists, one who is concerned for the welfare of his neighbours, with neighbour-commitments, and one who is concerned for the welfare of animals, with animal-commitments. Suppose that our consequentialists can save their neighbour’s dog from an accident by running to catch it before it reaches the street, and that this is demanded by consequentialism. The consequentialist with neighbour-commitments would do so because he is moved to help his neighbour, while the consequentialist with animal-commitments would do so because he is moved by the thought of the dog’s suffering. If the two consequentialists had identical characters, they would not be differently moved. Different sets of commitments are permissible by consequentialist lights and correspond to different characters. Consequentialism does not demand that agents abandon their characters, merely that agents should have consequentialist characters. This is unsurprising and unproblematic.
