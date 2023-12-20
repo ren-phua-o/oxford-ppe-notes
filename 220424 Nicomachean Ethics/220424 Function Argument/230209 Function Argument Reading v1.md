@@ -38,7 +38,7 @@ Aristotle (1999) Nicomachean Ethics. Translated by T. H. Irwin. Cambridge, MA: H
 ## Condensed Notes on Aristotle, 1999
 Aristotle (1999) Nicomachean Ethics. Translated by T. H. Irwin. Cambridge, MA: Hackett Publishing
 - I.1 Ends and Goods
-	- Aristotle here argues that (1) the end of each activity is a good, (2) the end of some activities is in the activities themselves, (3) some activities are subordinate to others, (4) this is so regardless of whether these activities have intrinsic or external ends, and (5) the ends of ruling activities are higher goods than the ends of subordinate ones.
+	- Aristotle here argues that (1) the end of each activity is a good, (2) the ends of some activities are in the activities themselves, (3) some activities are subordinate to others, (4) this is so regardless of whether these activities have intrinsic or external ends, and (5) the ends of ruling activities are higher goods than the ends of subordinate ones.
 - I.2 The Highest Good and Political Science
 	- Aristotle argues that the highest good is the end sought for its own sake and for whose sake all other ends are sought. This highest good seems to be the end of political science since all other activities appear subordinate (more or less directly) to political science.
 - I.3 The Method of Political Science
