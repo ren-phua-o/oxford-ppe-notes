@@ -17,7 +17,7 @@
 - Abbreviations
 	- "$\phi\land\psi$" abbreviates "$\lnot(\phi\rightarrow\lnot\psi)$".
 	- "$\phi\lor\psi$" abbreviates "$(\lnot\phi\rightarrow\psi)$".
-	- "$\phi\leftrightarrow\psi$" abbreviates "$((\phi\rightarrow\psi)\land(\psi\rightarrow\psi))$".
+	- "$\phi\leftrightarrow\psi$" abbreviates "$((\phi\rightarrow\psi)\land(\psi\rightarrow\phi))$".
 	- The familiar bracketing conventions apply.
 
 ### Semantics
