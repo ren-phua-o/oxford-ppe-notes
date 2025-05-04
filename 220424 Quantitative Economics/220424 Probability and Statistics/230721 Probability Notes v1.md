@@ -100,7 +100,7 @@
 - Definition (Marginal Cumulative Distribution Function)
 	- The marginal cumulative distribution of continuous random variable $X$ is simply its (univariate) cumulative distribution function $F_X(x)=\int_{-\infty}^xf_{X}(u)du$.
 - Definition (Conditional Probability Density Function)
-	- The conditional probability density function of continuous random variable $X$ given continuous random variable $Y$ is the function $f_{X|Y}(x|y):=\frac{f_{X,Y}(x,y)}{f_X(x)}$.
+	- The conditional probability density function of continuous random variable $X$ given continuous random variable $Y$ is the function $f_{X|Y}(x|y):=\frac{f_{X,Y}(x,y)}{f_Y(y)}$.
 	- This definition is exactly analogous to that of the conditional probability mass function. The $f$ functions in this case refer to probability density functions while the $f$ functions in the discrete case refer to probability mass functions.
 - Definition (Conditional Cumulative Distribution Function)
 	- The conditional cumulative distribution function of continuous random variable $X$ given discrete random variable $Y$ is the function $F_{X|Y}(x|y):=\mathbb{P}\{X\leq x|Y=y\}=\int_{-\infty}^xf_{X|Y}(u|y)du$.
